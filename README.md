@@ -1,0 +1,2 @@
+# vector_stress_majorization
+graph visualization algorithm
