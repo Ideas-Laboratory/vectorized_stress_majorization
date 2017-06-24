@@ -1,13 +1,29 @@
-# vector_stress_majorization
-We present an improved stress majorization method that incorporates various constraints including directional constraints
-without the necessity of solving a constraint optimization problem. This is achieved by reformulating the stress function to impose
-constraints on both the edge vectors and lengths instead of just on the edge lengths (node distances). This is a unified framework for
-both constrained and unconstrained graph visualizations, where we can model most existing layout constraints, as well as develop
-new ones such as the star shapes and cluster separation constraints within stress majorization. This improvement also allows us to
-parallelize the computation with an efficient GPU conjugant gradient solver, which yields fast and stable solutions, even for large graphs.
-As a result, we can support constraint based exploration of large graphs with 10K nodes, to which previous methods cannot support.
+# Vector Stress Majorization
+Source code of paper "Revisiting Stress Majorization as a Unified Framework for
+Interactive Constrained Graph Visualization" by Yunhai Wang, Yanyan Wang et al.
 
-For detail, please refer to our paper 'Revisiting Stress Majorization as a Unified Framework for
-Interactive Constrained Graph Visualization'. 
+Project page: ...
 
-Citation: 
+## Note
+Due to the complexity of our user interactive system, the interaction part is not included in our distribution. The UI system is provided as an executable file(.exe) for Windows operating system.
+
+These codes include the main contribution of our algorithm, Vector Stress Majorization. We provide two sample codes for you to test. You can modify it based on them to fit your need.
+
+Note that the edges, distances matrix, circles, and communities are read from files. We do not provide the algorithms for calculating distances or finding communities and circles. And the format of data should be organized as the sample datasets we provide.
+
+We modified viennCL to enhance the performance for our need particularly.
+
+## Dependencies
+Our system is running under Cuda 8.0, viennCL, Eigen, and Glut in visual studio 2013. If you want to change the configuration of our solution file, you can modify .... and reload the solution file in visual studio.
+
+## Cite
+You can use our codes for research purpose only. And please cite our paper when you use our codes.
+...
+
+## Licence
+Vector Stress Majorization is open-sourced software licensed under the MIT license.
+
+## Contact
+If you find any bugs or have any ideas of optimizing these codes, please contact me via yanyanwang93 [at] gmail [dot] com.
+
+Yanyan Wang
