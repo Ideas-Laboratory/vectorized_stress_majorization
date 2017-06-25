@@ -1,4 +1,4 @@
-# Vector Stress Majorization
+# Vectorized Stress Majorization
 Source code of paper "Revisiting Stress Majorization as a Unified Framework for
 Interactive Constrained Graph Visualization" by Yunhai Wang, Yanyan Wang et al.
 
