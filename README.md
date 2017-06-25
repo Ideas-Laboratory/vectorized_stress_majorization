@@ -11,10 +11,10 @@ These codes include the main contribution of our algorithm, Vector Stress Majori
 
 Note that the edges, distances matrix, circles, and communities are read from files. We do not provide the algorithms for calculating distances or finding communities and circles. And the format of data should be organized as the sample datasets we provide.
 
-We modified viennCL to enhance the performance for our need particularly.
+We modified viennaCL to enhance the performance for our need particularly.
 
 ## Dependencies
-Our system is running under Cuda 8.0, viennCL, Eigen, and Glut in visual studio 2013. If you want to change the configuration of our solution file, you can modify .... and reload the solution file in visual studio.
+Our system is running under Cuda 8.0, viennaCL, Eigen, and Glut in visual studio 2013. If you want to change the configuration of our solution file, you can modify .... and reload the solution file in visual studio.
 
 ## Cite
 You can use our codes for research purpose only. And please cite our paper when you use our codes.
