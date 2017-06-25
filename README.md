@@ -14,7 +14,7 @@ Note that the edges, distances matrix, circles, and communities are read from fi
 We modified viennaCL to enhance the performance for our need particularly.
 
 ## Dependencies
-Our system is running under Cuda 8.0, viennaCL, Eigen, and Glut in visual studio 2013. If you want to change the configuration of our solution file, you can modify .... and reload the solution file in visual studio.
+Our system is running under Cuda 8.0, viennaCL(http://viennacl.sourceforge.net/), Eigen, and Glut in visual studio 2013. If you want to change the configuration of our solution file, you can modify .... and reload the solution file in visual studio.
 
 ## Cite
 You can use our codes for research purpose only. And please cite our paper when you use our codes.
