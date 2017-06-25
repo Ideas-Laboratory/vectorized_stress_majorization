@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="AtomConst.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="CircleConst.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="Constraint.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="CrossingRemoveConst.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="EqualAngleConst.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="Graph.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="HeapSort.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="NonOverlapConst.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="PathRouteDijkstra.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="ShortestPath.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="sDirectionConstGenerator.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="StressConst.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="SymmetryConst.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="Tool.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="VisDrawTool.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="Solver.cu">
+      <Filter>Source</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="AtomConst.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="BasicHeader.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="CircleConst.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Constraint.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="CrossingRemoveConst.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="cuSolver.cuh">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="EqualAngleConst.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Graph.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="HeapSort.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="NonOverlapConst.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="PathRouteDijkstra.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="sDirectionConstGenerator.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="ShortestPath.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Solver.cuh">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="StressConst.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="SymmetryConst.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Tool.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="VectorStressMajorization.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source">
+      <UniqueIdentifier>{5e0da887-a6a5-44c0-adad-86a0985614a5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Headers">
+      <UniqueIdentifier>{15b79fea-09f4-41d0-9380-eea779074eed}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <CudaCompile Include="cuSolver.cu">
+      <Filter>Source</Filter>
+    </CudaCompile>
+  </ItemGroup>
+</Project>
