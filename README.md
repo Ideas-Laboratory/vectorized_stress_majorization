@@ -5,7 +5,7 @@ Interactive Constrained Graph Visualization" by Yunhai Wang, Yanyan Wang et al.
 Project page: ...
 
 ## Note
-Due to the complexity of our user interactive system, the interaction part is not included in our distribution. The UI system is provided as an executable file for Windows operating system.
+Due to the complexity of our user interactive system, the source code of the interaction part is not included in our distribution. The UI system is provided as an executable file for Windows operating system.
 
 These codes include the main contribution of our algorithm, Vectorized Stress Majorization(VSM). We provide two sample codes for you to test. You can modify them to fit your need.
 
