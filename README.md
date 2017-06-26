@@ -55,6 +55,6 @@ You can use our codes for research purpose only. And please cite our paper when 
 Vectorized Stress Majorization is open-sourced software licensed under the MIT license.
 
 ## Contact
-If you find any bugs or have any ideas of optimizing these codes, please contact me via cloudseawang [at] gmail [dot] com.
+If you find any bugs or have any ideas of optimizing these codes, please contact us via cloudseawang [at] gmail [dot] com.
 
 Yanyan Wang
