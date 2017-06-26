@@ -28,7 +28,7 @@ Visual Studio 2015 solution file is also provided.
 Configurations are tested on Ubuntu 16.04 with Clang and Visual Studio 2015 on Windows.
 
 ## Dependencies
-Our system is running under CUDA 8.0, viennaCL, Eigen, and Glut in visual studio 2015. If you want to change the configuration of our solution file, you can modify .... and reload the solution file in visual studio.
+Our system is running under CUDA 8.0, viennaCL, Eigen, and Glut in visual studio 2015. 
 
 ## Cite
 You can use our codes for research purpose only. And please cite our paper when you use our codes.
