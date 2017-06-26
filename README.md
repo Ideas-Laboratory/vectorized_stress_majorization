@@ -41,7 +41,7 @@ You can use our codes for research purpose only. And please cite our paper when 
 
   title={ Revisiting Stress Majorization as a Unified Framework for Interactive Constrained Graph Visualization},
   
-  author={ Yunhai Wang, Yanyan Wang, Yinqi Sun, Lifeng Zhu, Kecheng Lu, Chi-Wing Fu, Michael Sedlmair, Oliver Deussen, and Baoquan Chen,
+  author={ Yunhai Wang, Yanyan Wang, Yinqi Sun, Lifeng Zhu, Kecheng Lu, Chi-Wing Fu, Michael Sedlmair, Oliver Deussen, and Baoquan Chen},
   
   journal={IEEE Trans. Vis. & Comp. Graphics (Proc. IEEE Information Visualization (Infovis) 2017)},
   
