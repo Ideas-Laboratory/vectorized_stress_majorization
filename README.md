@@ -1,6 +1,6 @@
 # Vectorized Stress Majorization
 Source code of paper "Revisiting Stress Majorization as a Unified Framework for
-Interactive Constrained Graph Visualization" by Yunhai Wang and Yanyan Wang et al. published in IEEE Information Visualization (InfoVis) 2017.
+Interactive Constrained Graph Visualization" by Yunhai Wang and Yanyan Wang et al. conditionally accepted for publication in IEEE Information Visualization (InfoVis) 2017.
 
 Project page: ...
 
@@ -43,7 +43,8 @@ You can use our codes for research purpose only. And please cite our paper when 
   
   author={ Yunhai Wang, Yanyan Wang, Yinqi Sun, Lifeng Zhu, Kecheng Lu, Chi-Wing Fu, Michael Sedlmair, Oliver Deussen, and Baoquan Chen,
   
-  journal={IEEE Trans. Vis. & Comp. Graphics (Proc. IEEE Information Visualization (Infovis) 2017)},\n
+  journal={IEEE Trans. Vis. & Comp. Graphics (Proc. IEEE Information Visualization (Infovis) 2017)},
+  
   year={2017},
   
   publisher={IEEE}
