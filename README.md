@@ -18,12 +18,16 @@ Lastly, we modified viennaCL(http://viennacl.sourceforge.net/) to improve the pe
 We provided CMake lists for both *nix and Win32 environments and Microsoft Visual Studio projects for Windows.
 
 Linux:
-\nUse CMakeLists_NIX.txt for CMake.
-\nCUDA SDK required.
+
+Use CMakeLists_NIX.txt for CMake.
+
+CUDA SDK required.
 
 Windows:
-\nUse CMakeLists.txt with CMake 3.8 or later for MSVC on windows.
-\nVisual Studio 2015 solution file is also provided.
+
+Use CMakeLists.txt with CMake 3.8 or later for MSVC on windows.
+
+Visual Studio 2015 solution file is also provided.
 
 Configurations are tested on Ubuntu 16.04 with Clang and Visual Studio 2015 on Windows.
 
@@ -31,13 +35,19 @@ Configurations are tested on Ubuntu 16.04 with Clang and Visual Studio 2015 on W
 Our system is running under CUDA 8.0, viennaCL, Eigen, and Glut in visual studio 2015. 
 
 ## Cite
-You can use our codes for research purpose only. And please cite our paper when you use our codes.\n
-@article{wang2018vsm,\n
-  title={ Revisiting Stress Majorization as a Unified Framework for Interactive Constrained Graph Visualization},\n
-  author={ Yunhai Wang, Yanyan Wang, Yinqi Sun, Lifeng Zhu, Kecheng Lu, Chi-Wing Fu, Michael Sedlmair, Oliver Deussen, and Baoquan Chen,\n
+You can use our codes for research purpose only. And please cite our paper when you use our codes.
+
+@article{wang2018vsm,
+
+  title={ Revisiting Stress Majorization as a Unified Framework for Interactive Constrained Graph Visualization},
+  
+  author={ Yunhai Wang, Yanyan Wang, Yinqi Sun, Lifeng Zhu, Kecheng Lu, Chi-Wing Fu, Michael Sedlmair, Oliver Deussen, and Baoquan Chen,
+  
   journal={IEEE Trans. Vis. & Comp. Graphics (Proc. IEEE Information Visualization (Infovis) 2017)},\n
-  year={2017},\n
-  publisher={IEEE}\n
+  year={2017},
+  
+  publisher={IEEE}
+  
 }
 
 
