@@ -1,17 +1,17 @@
 # Vectorized Stress Majorization
 Source code of paper "Revisiting Stress Majorization as a Unified Framework for
-Interactive Constrained Graph Visualization" by Yunhai Wang, Yanyan Wang et al.
+Interactive Constrained Graph Visualization" by Yunhai Wang and Yanyan Wang et al. published in IEEE Information Visualization (InfoVis) 2017.
 
 Project page: ...
 
 ## Note
-Due to the complexity of our user interactive system, the source code of the interaction part is not included in our distribution. The UI system is provided as an executable file for Windows operating system.
+Due to the complexity of our user interactive system, the source code of the interaction part is not included in our distribution, but we provide an executable file of the UI system: run on 64-bit Windows 10 operating system.
 
-These codes include the main contribution of our algorithm, Vectorized Stress Majorization(VSM). We provide two sample codes for you to test. You can modify them to fit your need.
+The distribution includes our algorithm, the Vectorized Stress Majorization (VSM). In addition, we provide two sample code for testing. You can modify the code based on your needs.
 
 Note that the edges, distances matrix, circles, and communities are read from files. We do not provide the algorithms for calculating distances or finding communities and circles. And the format of data should be organized as the sample datasets we provide.
 
-We modified viennaCL(http://viennacl.sourceforge.net/) to enhance the performance for our need particularly.
+Lastly, we modified viennaCL to improve the performance for our need particularly. The modified viennaCL is provided in vectorized_stress_majorization/src/VectorizedStressMajorization/viennacl.
 
 ## Compilation
 
