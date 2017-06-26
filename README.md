@@ -11,7 +11,7 @@ The distribution includes our algorithm, the Vectorized Stress Majorization (VSM
 
 Note that the edges, distances matrix, circles, and communities are read from files. We do not provide the algorithms for calculating distances or finding communities and circles. And the format of data should be organized as the sample datasets we provide.
 
-Lastly, we modified viennaCL to improve the performance for our need particularly. The modified viennaCL is provided in vectorized_stress_majorization/src/VectorizedStressMajorization/viennacl.
+Lastly, we modified viennaCL(http://viennacl.sourceforge.net/) to improve the performance for our need particularly. The modified viennaCL is provided in vectorized_stress_majorization/src/VectorizedStressMajorization/viennacl.
 
 ## Compilation
 
