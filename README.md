@@ -9,7 +9,7 @@ Due to the complexity of our user interactive system, the source code of the int
 
 The distribution includes our algorithm, the Vectorized Stress Majorization (VSM). In addition, we provide two sample code for testing. You can modify the code based on your needs.
 
-Note that the edges, distances matrix, circles, and communities are read from files. We do not provide the algorithms for calculating distances or finding communities and circles. And the format of data should be organized as the sample datasets we provide.
+Note that the edges, distances matrix, circles, and communities are read from files. We do not provide the algorithms for calculating distances or finding communities and circles. The format of data should be organized as the sample datasets we provide.
 
 Lastly, we modified viennaCL(http://viennacl.sourceforge.net/) to improve the performance for our need particularly. The modified viennaCL is provided in vectorized_stress_majorization/src/VectorizedStressMajorization/viennacl.
 
@@ -55,6 +55,6 @@ You can use our codes for research purpose only. And please cite our paper when 
 Vectorized Stress Majorization is open-sourced software licensed under the MIT license.
 
 ## Contact
-If you find any bugs or have any ideas of optimizing these codes, please contact me via yanyanwang93 [at] gmail [dot] com.
+If you find any bugs or have any ideas of optimizing these codes, please contact me via cloudseawang [at] gmail [dot] com.
 
 Yanyan Wang
