@@ -14,7 +14,9 @@ Lastly, we modified viennaCL (http://viennacl.sourceforge.net/) to improve the p
 
 ## Compilation
 We provided CMake lists for both *nix and Win32 environments and Microsoft Visual Studio projects for Windows.
+
 •	Linux: Use CMakeLists_NIX.txt for CMake. CUDA SDK required.
+
 •	Windows: Use CMakeLists.txt with CMake 3.8 or later for MSVC on windows. Visual Studio 2015 solution file is also provided.
 Configurations are tested on Ubuntu 16.04 with Clang and Visual Studio 2015 on Windows.
 
