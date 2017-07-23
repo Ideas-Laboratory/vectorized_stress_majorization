@@ -10,7 +10,7 @@ The distribution includes our algorithm, the Vectorized Stress Majorization (VSM
 
 Note that the edges, distances matrix, circles, and communities are read from files. We do not provide the algorithms for calculating distances or finding communities and circles.  The format of the data should be organized as the sample datasets we provided.
 
-Lastly, we modified viennaCL (http://viennacl.sourceforge.net/) to improve the performance for our need particularly. The modified viennaCL is provided in vectorized_stress_majorization/src/VectorizedStressMajorization/viennacl.
+Lastly, we modified ViennaCL (http://viennacl.sourceforge.net/) to improve the performance for our need particularly. The modified viennaCL is provided in vectorized_stress_majorization/src/VectorizedStressMajorization/viennacl.
 
 ## Compilation
 We provided CMake lists for both *nix and Win32 environments and Microsoft Visual Studio projects for Windows.
@@ -21,7 +21,7 @@ We provided CMake lists for both *nix and Win32 environments and Microsoft Visua
 Configurations are tested on Ubuntu 16.04 with Clang and Visual Studio 2015 on Windows.
 
 ## Dependencies
-Our system runs on CUDA 8.0, viennaCL, Eigen, and GLUT in Visual Studio 2015. 
+Our system runs on CUDA 8.0, ViennaCL, Eigen, and GLUT in Visual Studio 2015. 
 
 ## Reference
 Our code is provided for research purpose only.
@@ -43,7 +43,7 @@ Please cite our paper when you use our codes.
 
 
 ## Licence
-Vectorized Stress Majorization is an open-sourced software licensed under the MIT license.
+Vectorized Stress Majorization is an open-sourced software licensed under the MIT licence.
 
 ## Contact
 If you find any bugs or have any ideas of optimizing these codes, please contact me via cloudseawang [at] gmail [dot] com.
