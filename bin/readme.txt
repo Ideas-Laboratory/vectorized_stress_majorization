@@ -33,6 +33,6 @@ Detail View:
   
 Weight Constrolling View:
   Listing the constraints in the graph.
-  User scale the weight of each constraint by the sliding block. 
+  User scale the weight of each constraint by the sliding bar. 
   Apply the weight with the Confirm Button and delete the constraint with the Cancel Button.
   
