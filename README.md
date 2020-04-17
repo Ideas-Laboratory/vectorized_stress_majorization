@@ -27,19 +27,15 @@ Our system runs on CUDA 8.0, ViennaCL, Eigen, and GLUT in Visual Studio 2015.
 Our code is provided for research purpose only.
 Please cite our paper when you use our codes.
 
+```bibtex
 @article{wang2018vsm,
-
   title={Revisiting Stress Majorization as a Unified Framework for Interactive Constrained Graph Visualization},
-  
   author={Yunhai Wang, Yanyan Wang, Yinqi Sun, Lifeng Zhu, Kecheng Lu, Chi-Wing Fu, Michael Sedlmair, Oliver Deussen, and Baoquan Chen},
-  
   journal={IEEE Transactions Visualization and Computer Graphics (IEEE Information Visualization (InfoVis) 2017)},
-  
   year={2017},
-  
   publisher={IEEE}
-  
 }
+```
 
 
 ## Licence
